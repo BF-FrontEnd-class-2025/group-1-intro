@@ -1,6 +1,6 @@
 # Hello I am Susana
 
-![SusanaLoaiza](./img/susana.jpg)
+![SusanaLoaiza](./img/susana-img.jpg)
 
 I love learning new things and am always eager to expand my horizons. As a team
 player, I value collaboration and believe that kindness goes a long way. I also
@@ -25,5 +25,6 @@ enjoy a good conversation and look forward to connecting with you!
 
 ## Contact
 
-- 📧 Email: <susiloaiza94@gmail.com>
+- 📧 Email: susiloaiza94@gmail.com
+
 - GitHub: [github.com/SusanaLoaiza](https://github.com/SusanaLoaiza)
