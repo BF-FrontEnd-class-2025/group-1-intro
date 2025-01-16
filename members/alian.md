@@ -23,7 +23,6 @@ enhancing my language skills and further developing my computing expertise.
 ---
 
 ## Personal Informaition
-
 - Mohamed Mostafa Ali
 - 28 JUL
 - <moh.ellbanna@gmail.com>
