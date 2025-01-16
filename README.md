@@ -1,48 +1,75 @@
-# (project name)
+# Frontend Developers in Training 👩‍💻👨‍💻
 
-<!-- describe your project -->
+Welcome to our GitHub page! We are a group of passionate students learning and
+exploring the exciting world of frontend development. Our goal is to create
+modern, user-friendly, and responsive web applications while mastering the core
+technologies of the web.
 
-## Getting Started
+## About Us ✨
 
-<!-- a guide to using this repository -->
+We are a team of aspiring frontend developers with diverse backgrounds and a
+shared enthusiasm for building engaging digital experiences. Together, we are
+learning, experimenting, and collaborating to improve our skills and prepare for
+real-world challenges.
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+## What We Are Learning 📚
 
-## Code Quality Checks
+- **HTML**: Structuring the web with semantic markup.
+- **CSS**: Styling websites with creativity and responsiveness.
+- **JavaScript**: Adding interactivity and functionality to web pages.
+- **Frameworks & Libraries**: Exploring tools like React, Vue.js, and more.
+- **Version Control**: Collaborating efficiently using Git and GitHub.
+- **Web Design**: Understanding user experience (UX) and user interface (UI)
+  design principles.
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+## Our Projects 🚀
 
-## Continuous Integration (CI)
+Here, you’ll find a collection of our projects and assignments as we progress
+through our learning journey. Each project reflects our growth and demonstrates
+the new skills we’ve acquired. Some of our recent projects include:
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+- Interactive landing pages
+- Responsive web layouts
+- Basic web applications
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+## Get in Touch 🤝
 
-## Repo Setup
+We’re always open to feedback, collaboration, and learning from the broader
+developer community. Feel free to explore our repositories and share your
+thoughts.
 
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+Happy coding! 😊
+
+## Here we are 🧑
+
+<div>
+<img src="./members/img/susana-img.jpg" alt="Susana photo" width="50%">
+</div>
+
+### [_SUSANA_](./members/susana.md)
+
+---
+
+<div>
+<img src="./members/img/arsanpic.jpg" alt="Arsan photo" width="50%">
+</div>
+
+### [_ARSAN_](./members/arsan.md)
+
+---
+
+<div>
+<img src="./members/img/elbana.jpeg" alt="Alian photo" width="50%">
+</div>
+
+### [_ALIAN_](./members/alian.md)
+
+---
+
+<div>
+<img src="./members/img/photo.JPG" alt="Anton photo" width="50%">
+</div>
+
+### [_ANTON_](./members/anton.md)
+
+---

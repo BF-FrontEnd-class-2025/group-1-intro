@@ -25,6 +25,6 @@ enjoy a good conversation and look forward to connecting with you!
 
 ## Contact
 
-- 📧 Email: susiloaiza94@gmail.com
+- 📧 Email: <susiloaiza94@gmail.com>
 
 - GitHub: [github.com/SusanaLoaiza](https://github.com/SusanaLoaiza)

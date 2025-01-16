@@ -18,7 +18,5 @@ Languages
 
 Personal Informaition
 
-Full name : Mohamed Mostafa Ali 
-Date Of Birth : 28 JUL 
-Email : <moh.ellbanna@gmail.com> 
-Phone Num : +32493429437
+Full name : Mohamed Mostafa Ali Date Of Birth : 28 JUL Email :
+<moh.ellbanna@gmail.com> Phone Num : +32493429437
